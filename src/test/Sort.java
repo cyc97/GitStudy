@@ -16,7 +16,7 @@ public class Sort {
 	{
 		int i,j;
 		double temp;
-		for(i=0;i<array.length-1;i++)//Ã°ÅÝ½µÐòÅÅÁÐ
+		for(i=0;i<array.length-1;i++)//descending order
 		{
 			for(j=0;j<array.length-1-i;j++)
 			{
